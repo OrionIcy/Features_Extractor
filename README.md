@@ -10,5 +10,5 @@ MaxPool
 AvgPool  
 BiasAdd  
 LRN  
-MatMul
+MatMul  
 Softmax
